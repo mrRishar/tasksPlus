@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DELL_VOSTRO</Machine>
+    <WindowsUser>mr_R!shar</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>C606A4C463A1B37411EEAC948A43CAA5D7004FC4A264A12D4275F8C720E49A22</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>28076mrRshar.TasksPlus_1.0.0.0_neutral__zp15bpqgpjhct</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>28076mrRshar.TasksPlus_zp15bpqgpjhct!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>28076mrRshar.TasksPlus</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=5D36913C-EEE0-4132-913E-8D3B7F007CD2</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-19T23:20:41.917</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Release\Tasks+.exe">
+      <PackagePath>Tasks+.exe</PackagePath>
+      <Modified>2013-03-19T23:20:41.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Release\Tasks+.pdb">
+      <PackagePath>Tasks+.pdb</PackagePath>
+      <Modified>2013-03-19T23:20:41.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\packages\Callisto.1.2.6\lib\winrt45\Callisto.dll">
+      <PackagePath>Callisto.dll</PackagePath>
+      <Modified>2013-03-10T09:52:24.669</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\Assets\back.png">
+      <PackagePath>Assets\back.png</PackagePath>
+      <Modified>2013-03-16T14:58:35.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-21T22:12:33.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-21T22:17:44.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-09T14:40:26.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-21T22:16:56.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-21T22:12:47.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-11-29T08:20:14.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-24T18:58:44.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Release\AboutUserControl.xaml">
+      <PackagePath>AboutUserControl.xaml</PackagePath>
+      <Modified>2013-03-19T22:50:36.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-03-19T21:52:57.053</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-03-19T22:25:06.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Release\PreferencesUserControl.xaml">
+      <PackagePath>PreferencesUserControl.xaml</PackagePath>
+      <Modified>2013-03-19T22:52:04.466</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Release\TasksDetailPage.xaml">
+      <PackagePath>TasksDetailPage.xaml</PackagePath>
+      <Modified>2013-03-19T22:25:06.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\packages\Callisto.1.2.6\lib\winrt45\Callisto\themes\Generic.xaml">
+      <PackagePath>Callisto\themes\Generic.xaml</PackagePath>
+      <Modified>2013-03-10T09:52:24.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-03-19T23:20:41.637</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

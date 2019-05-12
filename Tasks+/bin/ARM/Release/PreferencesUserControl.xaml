@@ -1,0 +1,50 @@
+﻿<UserControl x:ConnectionId='1'
+    x:Class="Tasks_.PreferencesUserControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Tasks_"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400" 
+                               >
+
+    <Grid Margin="20,10,0,0">
+        <StackPanel Orientation="Vertical" Width="240" Margin="5,0" HorizontalAlignment="Left">
+            <TextBlock Text="Task+" FontSize="30" Margin="-5,0"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text=" Фон" FontSize="20" Margin="0,5"/>
+                <TextBlock Text="__" FontSize="20" Foreground="Transparent" Margin="0, 5"/>
+                <ComboBox x:Name="FonCombo" Width="174" Margin="5,0">
+                    <ComboBoxItem x:ConnectionId='12' Content="За замовчуванням" IsSelected="True"                       />
+                    <ComboBoxItem x:ConnectionId='13' x:Name="pict" Content="Зображення"                       />
+                    <ComboBoxItem x:ConnectionId='14' Content="Білий"                       />
+                    <ComboBoxItem x:ConnectionId='15' Content="Жовтий"                       />
+                    <ComboBoxItem x:ConnectionId='16' Content="Зелений"                       />
+                    <ComboBoxItem x:ConnectionId='17' Content="Оранджевий"                       />
+                    <ComboBoxItem x:ConnectionId='18' Content="Синій"                       />
+                    <ComboBoxItem x:ConnectionId='19' Content="Фіолетовий"                       />
+                    <ComboBoxItem x:ConnectionId='20' Content="Чорний"                       />
+                    <ComboBoxItem x:ConnectionId='21' Content="Червоний"                       />
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Margin="0,5">
+                <TextBlock Text=" Фон категорій" FontSize="20" Margin="0, 5"/>
+                <ComboBox x:Name="categoryCombo" HorizontalAlignment="Stretch" Margin="2,0">
+                    <ComboBoxItem x:ConnectionId='2' Content="За замовчуванням" IsSelected="True"                        />
+                    <ComboBoxItem x:ConnectionId='3' x:Name="pic" Content="Зображення"                        />
+                    <ComboBoxItem x:ConnectionId='4' Content="Білий"                        />
+                    <ComboBoxItem x:ConnectionId='5' Content="Жовтий"                        />
+                    <ComboBoxItem x:ConnectionId='6' Content="Зелений"                        />
+                    <ComboBoxItem x:ConnectionId='7' Content="Оранджевий"                        />
+                    <ComboBoxItem x:ConnectionId='8' Content="Синій"                        />
+                    <ComboBoxItem x:ConnectionId='9' Content="Фіолетовий"                        />
+                    <ComboBoxItem x:ConnectionId='10' Content="Чорний"                        />
+                    <ComboBoxItem x:ConnectionId='11' Content="Червоний"                        />
+                </ComboBox>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>
+

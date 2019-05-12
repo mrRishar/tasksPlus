@@ -1,0 +1,47 @@
+﻿<UserControl
+    x:Class="Tasks_.PreferencesUserControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Tasks_"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400" 
+    Loaded="UserControl_Loaded">
+
+    <Grid Margin="10,10,0,0">
+        <StackPanel Orientation="Vertical" Width="255" Margin="5,0,0,0" HorizontalAlignment="Left">
+            <StackPanel Orientation="Vertical">
+                <TextBlock x:Uid="fon" Text=" Фон" FontSize="20" Margin="5,0"/>
+                <ComboBox x:Name="FonCombo"  HorizontalAlignment="Stretch" Margin="2,0">
+                    <ComboBoxItem x:Uid="default" Content="За замовчуванням" IsSelected="True" Tapped="FonComBoTaped"/>
+                    <ComboBoxItem x:Uid="image" x:Name="pict" Content="Зображення" Tapped="FonComBoTaped"/>
+                    <ComboBoxItem x:Uid="white" Content="Білий" Tapped="FonComBoTaped"/>
+                    <ComboBoxItem x:Uid="yellow" Content="Жовтий" Tapped="FonComBoTaped"/>
+                    <ComboBoxItem x:Uid="green" Content="Зелений" Tapped="FonComBoTaped"/>
+                    <ComboBoxItem x:Uid="orange" Content="Оранджевий" Tapped="FonComBoTaped"/>
+                    <ComboBoxItem x:Uid="blue" Content="Синій" Tapped="FonComBoTaped"/>
+                    <ComboBoxItem x:Uid="violet" Content="Фіолетовий" Tapped="FonComBoTaped"/>
+                    <ComboBoxItem x:Uid="black" Content="Чорний" Tapped="FonComBoTaped"/>
+                    <ComboBoxItem x:Uid="red" Content="Червоний" Tapped="FonComBoTaped"/>
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Margin="0,5">
+                <TextBlock x:Uid="catfon" Text=" Фон категорій" FontSize="20" Margin="0, 5"/>
+                <ComboBox x:Name="categoryCombo" HorizontalAlignment="Stretch" Margin="2,0">
+                    <ComboBoxItem x:Uid="1Default" Content="За замовчуванням" IsSelected="True" Tapped="CatComBoxTaped"/>
+                    <ComboBoxItem x:Uid="1Image" x:Name="pic" Content="Зображення" Tapped="CatComBoxTaped"/>
+                    <ComboBoxItem x:Uid="1White" Content="Білий" Tapped="CatComBoxTaped"/>
+                    <ComboBoxItem x:Uid="1Yellow" Content="Жовтий" Tapped="CatComBoxTaped"/>
+                    <ComboBoxItem x:Uid="1Green" Content="Зелений" Tapped="CatComBoxTaped"/>
+                    <ComboBoxItem x:Uid="1Orange" Content="Оранджевий" Tapped="CatComBoxTaped"/>
+                    <ComboBoxItem x:Uid="1Blue" Content="Синій" Tapped="CatComBoxTaped"/>
+                    <ComboBoxItem x:Uid="1Violet" Content="Фіолетовий" Tapped="CatComBoxTaped"/>
+                    <ComboBoxItem x:Uid="1Black" Content="Чорний" Tapped="CatComBoxTaped"/>
+                    <ComboBoxItem x:Uid="1Red" Content="Червоний" Tapped="CatComBoxTaped"/>
+                </ComboBox>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

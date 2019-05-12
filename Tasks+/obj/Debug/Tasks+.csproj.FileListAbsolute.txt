@@ -1,0 +1,75 @@
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Debug\Tasks+.exe
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Debug\Tasks+.pdb
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Debug\resources.pri
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Debug\AppxManifest.xml
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Debug\Tasks+.build.appxrecipe
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\App.g.i.cs
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\App.g.cs
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\Common\StandardStyles.g.i.cs
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\Common\StandardStyles.g.cs
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\MainPage.g.i.cs
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\MainPage.g.cs
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\XamlTypeInfo.g.cs
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\App.xaml
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\Common\StandardStyles.xaml
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\MainPage.xaml
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\Tasks+.exe
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\Tasks+.pdb
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\priconfig.xml
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\layout.resfiles
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\resources.resfiles
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\pri.resfiles
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\LanguageQualifiers.txt
+d:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\ProjectArchitectures.txt
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Debug\Tasks+.exe.CodeAnalysisLog.xml
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Debug\Tasks+.exe.lastcodeanalysissucceeded
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\TasksDetailPage.g.i.cs
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\TasksDetailPage.g.cs
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\TasksDetailPage.xaml
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\priconfig.xml.intermediate
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\layout.resfiles.intermediate
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\resources.resfiles.intermediate
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\pri.resfiles.intermediate
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\bin\Debug\Tasks+.exe
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\bin\Debug\Tasks+.pdb
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\bin\Debug\Tasks+.exe.CodeAnalysisLog.xml
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\bin\Debug\Tasks+.exe.lastcodeanalysissucceeded
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\bin\Debug\resources.pri
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\bin\Debug\AppxManifest.xml
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\bin\Debug\Tasks+.build.appxrecipe
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\App.g.i.cs
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\App.g.cs
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\Common\StandardStyles.g.i.cs
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\Common\StandardStyles.g.cs
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\MainPage.g.i.cs
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\MainPage.g.cs
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\TasksDetailPage.g.i.cs
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\TasksDetailPage.g.cs
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\XamlTypeInfo.g.cs
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\App.xaml
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\Common\StandardStyles.xaml
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\MainPage.xaml
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\TasksDetailPage.xaml
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\Tasks+.exe
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\Tasks+.pdb
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\priconfig.xml.intermediate
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\layout.resfiles.intermediate
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\resources.resfiles.intermediate
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\pri.resfiles.intermediate
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\priconfig.xml
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\layout.resfiles
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\resources.resfiles
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\pri.resfiles
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\LanguageQualifiers.txt
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+ — копия\Tasks+\obj\Debug\ProjectArchitectures.txt
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Debug\Callisto.dll
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\bin\Debug\Callisto.pri
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\Tasks+.csprojResolveAssemblyReference.cache
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\AboutUserControl.g.i.cs
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\AboutUserControl.g.cs
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\AboutUserControl.xaml
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\Tasks+.csproj.GenerateResource.Cache
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\Callisto.pri.xml
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\PreferencesUserControl.g.i.cs
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\PreferencesUserControl.g.cs
+D:\R!shar\Documents\Visual Studio 2012\Projects\Tasks+\Tasks+\obj\Debug\PreferencesUserControl.xaml
